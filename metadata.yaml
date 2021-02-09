@@ -1,5 +1,8 @@
 _repo: The-Defeat-of-Varus-and-the-German-Frontier-Policy-of-Augustus_64462
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64462-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Oldfather, William Abbott
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52914'
     url: http://www.gutenberg.org/2009/agents/52914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64462#The-Defeat-of-Varus-and-the-German-Frontier-Policy-of-Augustus
 gutenberg_issued: '2021-02-04'
 gutenberg_type: Text
 identifiers:
